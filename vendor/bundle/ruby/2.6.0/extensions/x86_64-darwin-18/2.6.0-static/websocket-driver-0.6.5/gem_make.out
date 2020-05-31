@@ -1,0 +1,15 @@
+current directory: /Users/kazuyahachisuka/Desktop/Learning/RubyOnRails/rails_tutorial/environment/railstutorial_sample_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/kazuyahachisuka/.anyenv/envs/rbenv/versions/2.6.2/bin/ruby -I /Users/kazuyahachisuka/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20200531-24548-n40vmp.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kazuyahachisuka/Desktop/Learning/RubyOnRails/rails_tutorial/environment/railstutorial_sample_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/kazuyahachisuka/Desktop/Learning/RubyOnRails/rails_tutorial/environment/railstutorial_sample_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/kazuyahachisuka/Desktop/Learning/RubyOnRails/rails_tutorial/environment/railstutorial_sample_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20200531-24548-mj8rxu
